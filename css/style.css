@@ -1,0 +1,18 @@
+* {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: whitesmoke;
+    border: solid;
+    padding: 18px; 
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    border: solid; 
+    background-color: whitesmoke;
+    padding: 24px;
+}
